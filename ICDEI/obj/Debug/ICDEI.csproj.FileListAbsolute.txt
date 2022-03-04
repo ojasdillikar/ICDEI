@@ -1,0 +1,15 @@
+C:\Users\ojasd\source\repos\ICDEI\ICDEI\bin\Debug\ICDEI.exe.config
+C:\Users\ojasd\source\repos\ICDEI\ICDEI\bin\Debug\ICDEI.exe
+C:\Users\ojasd\source\repos\ICDEI\ICDEI\bin\Debug\ICDEI.pdb
+C:\Users\ojasd\source\repos\ICDEI\ICDEI\obj\Debug\ICDEI.csprojAssemblyReference.cache
+C:\Users\ojasd\source\repos\ICDEI\ICDEI\obj\Debug\ICDEI.Properties.Resources.resources
+C:\Users\ojasd\source\repos\ICDEI\ICDEI\obj\Debug\ICDEI.csproj.GenerateResource.cache
+C:\Users\ojasd\source\repos\ICDEI\ICDEI\obj\Debug\ICDEI.csproj.CoreCompileInputs.cache
+C:\Users\ojasd\source\repos\ICDEI\ICDEI\obj\Debug\ICDEI.exe
+C:\Users\ojasd\source\repos\ICDEI\ICDEI\obj\Debug\ICDEI.pdb
+C:\Users\ojasd\source\repos\ICDEI\ICDEI\obj\Debug\ICDEI.main_ui.resources
+C:\Users\ojasd\source\repos\ICDEI\ICDEI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ojasd\source\repos\ICDEI\ICDEI\obj\Debug\ICDEI.Safegaurdkey.resources
+C:\Users\ojasd\source\repos\ICDEI\ICDEI\obj\Debug\ICDEI.csproj.CopyComplete
+C:\Users\ojasd\source\repos\ICDEI\ICDEI\obj\Debug\ICDEI.splash.resources
+C:\Users\ojasd\source\repos\ICDEI\ICDEI\obj\Debug\ICDEI.Message.resources
